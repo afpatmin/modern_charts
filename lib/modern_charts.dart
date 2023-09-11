@@ -16,3 +16,4 @@ part 'src/line.dart';
 part 'src/pie.dart';
 part 'src/radar.dart';
 part 'src/gauge.dart';
+ 
