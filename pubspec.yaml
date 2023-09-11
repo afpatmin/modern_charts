@@ -1,5 +1,5 @@
 name: modern_charts
-version: 0.2.0-nullsafety
+version: 1.0.0
 description: A package for creating simple yet modern looking charts.
 environment:
   sdk: '2.19.6'

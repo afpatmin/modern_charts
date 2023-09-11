@@ -70,7 +70,7 @@ class DataRow extends _TableEntity {
   }
 
   /// Creates a [List] containing all cells in this [DataRow].
-  List toList({bool growable: true}) => _cells.toList(growable: growable);
+  List toList({bool growable = true}) => _cells.toList(growable: growable);
 }
 
 class DataColumn extends _TableEntity {
